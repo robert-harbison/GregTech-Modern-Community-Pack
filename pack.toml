@@ -1,12 +1,12 @@
-name = "GregTech CEu Modern Community Pack"
+name = "GregTech CEu Modern Community Pack Sparkinex Edition"
 author = "ursamina"
-version = "1.14.5"
+version = "1.14.5-sparx1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "83d1158b6d139f1c58228ef5cba3c783fb0a3d9b978b38ff36d5baef5dff3b71"
+hash = "f035b8862026a512a0313953202d02191c5a2f290c840fa1725defa2e5ad35be"
 
 [versions]
 forge = "47.4.10"

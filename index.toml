@@ -5,6 +5,16 @@ file = "LICENSE"
 hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
 
 [[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
+metafile = true
+
+[[files]]
+file = "complementary-unbound.pw.toml"
+hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
+metafile = true
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4c17a419782c0d4ce403fda836c27f4c8e82c701ba28c39a61ab94f18c9c4c29"
 
@@ -808,6 +818,11 @@ hash = "d5d14d7bc5015e8d176dea928108876af06b90cd6cab328682fb5ca43fdb7f5b"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "d5763c8b4aca51d99c0b372ef05d53acc6c9bdeba83f30fffe71f2caf87d572d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -853,6 +868,11 @@ hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "317801320ec36fc5818b68cb25ab193719a144d5e29f10a85f3fbbd74aa36aeb"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
@@ -880,6 +900,11 @@ metafile = true
 [[files]]
 file = "mods/enigmatic-graves-fork.pw.toml"
 hash = "4a362c02618c1661f08f0aedad55ae43cfbb9fb00862a347c27007031899a1a1"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "f268d2c4e9748d321fecdb9bface963cf058279c83ff10a4c95361063a02d04a"
 metafile = true
 
 [[files]]
@@ -915,6 +940,11 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
 metafile = true
 
 [[files]]
@@ -960,6 +990,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "13306fd8dc27c0f5afb60874e6a12fc1b2252ac02e8a89ccc2f046f4898627ff"
 metafile = true
 
 [[files]]
@@ -1073,6 +1108,11 @@ hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "51bf17db22eee5fb80da0b2efe87b846f1165bafc67a789782c5fd976c406ffa"
 metafile = true
@@ -1170,4 +1210,19 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-block-transitions.pw.toml"
+hash = "29e7e41a66e1c26606f33d59912139cd534ab14ef2c70bbba1da81702716422e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "b5395a87ff650ccd9253568779f85deebf8186645219d4c6461f78645f03f0bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
 metafile = true

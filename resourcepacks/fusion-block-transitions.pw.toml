@@ -1,0 +1,13 @@
+name = "Fusion Block Transitions"
+filename = "Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2dc1252f80b2ff5897621008ddbb10c2c8765ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7051085
+project-id = 1315457
