@@ -5,16 +5,6 @@ file = "LICENSE"
 hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
-metafile = true
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4c17a419782c0d4ce403fda836c27f4c8e82c701ba28c39a61ab94f18c9c4c29"
 
@@ -1038,6 +1028,11 @@ hash = "123efff2aa30cc96a3d41d475252f3c5530a5e673d896992545c02d32132b379"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
+metafile = true
+
+[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
@@ -1225,4 +1220,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/fusion-connected-glass.pw.toml"
 hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
 metafile = true
